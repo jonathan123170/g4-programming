@@ -5,24 +5,34 @@ Created: <08/26/2026>
 Instructor: Mr. Burgess
 """
 
-print("Welcome! Please answer the following questions:")
+print("\nWelcome! Please answer the following questions:")
 
-N = input("How will you handle a stressful situation at work?")
+n = input("\n1. How will you handle a stressful situation at work?")
 
-print("Okay, next question!")
+print("\nOkay, next question!")
 
-A = input("What specific role would you like to apply for?")
+a = input("\n2. What specific role would you like to apply for?")
 
-print("Nice!")
+print("\nNice!")
 
-M = input("How do you see your role supporting the overall success and well-being of the students?")
+m = input("\n3. How do you see your role supporting the overall success and well-being of the students?")
 
-print("Okay, next question!")
+print("\nOkay, next question!")
 
-E = input("Our school is diverse, how would you ensure that your daily work and interactions are inclusive and welcoming to everyone")
+e = input("\n4. Our school is diverse, how would you ensure that your daily work and interactions are inclusive and welcoming to everyone")
 
-print("Okay, final question!")
+print("\nOkay, final question!")
 
-F = input("What questions would like us to answer for you?")
+f = input("\n5. What questions would like us to answer for you?")
 
-print("Thank you for your patience! We will respond back as soon as possible! Have a great day!")
+print("\nThank you for your patience! We will respond back as soon as possible! Have a great day!")
+
+print ("\n1. You answered: ",n)
+
+print ("\n2. You answered: ",a)
+
+print ("\n3. You answered: ",m)
+
+print ("\n4. You answered: ",e)
+
+print ("\n5. You answered: ",f)
