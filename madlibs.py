@@ -39,3 +39,17 @@ r = input("\n18.\nType in a plural noun:")
 s = input("\n19.\nType in a noun:")
 
 t = input("\n20.\nType in a place:")
+
+print(f"""It was a dark and {a} night when Professor Plum opened the ancient {b} in the laboratory. 
+Sparks began to {c} wildly across the {d} ceiling, filling the room with the strong smell of burning {e}.
+
+"Quick, hand me the {f}!" shouted the assistant, wearing a very {g} pair of goggles.
+
+Without thinking, Plum grabbed a jar of pickled {h} and poured the entire contents into the bubbling {i}. 
+A loud, booming {j} echoed through the hallway, shaking every 11 (noun) on the shelves.
+
+Suddenly, the machine let out a high-pitched 12 (verb ending in -ing) sound and started to 13 (verb) backward. 
+Out popped a small, purple 14 (animal) wearing a tiny 15 (clothing item). 
+It looked right at the professor and said, "16 (exclamation), I am finally awake after 17 (number) years!"
+
+Knowing they had to act fast, they both grabbed their 18 (plural noun), jumped out of the 19 (noun), and ran straight toward the 20 (place).""")
