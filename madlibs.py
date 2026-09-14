@@ -46,10 +46,10 @@ Sparks began to {c} wildly across the {d} ceiling, filling the room with the str
 "Quick, hand me the {f}!" shouted the assistant, wearing a very {g} pair of goggles.
 
 Without thinking, Plum grabbed a jar of pickled {h} and poured the entire contents into the bubbling {i}. 
-A loud, booming {j} echoed through the hallway, shaking every 11 (noun) on the shelves.
+A loud, booming {j} echoed through the hallway, shaking every {k} on the shelves.
 
-Suddenly, the machine let out a high-pitched 12 (verb ending in -ing) sound and started to 13 (verb) backward. 
-Out popped a small, purple 14 (animal) wearing a tiny 15 (clothing item). 
-It looked right at the professor and said, "16 (exclamation), I am finally awake after 17 (number) years!"
+Suddenly, the machine let out a high-pitched {l} sound and started to {m} backward. 
+Out popped a small, purple {n} wearing a tiny {o}. 
+It looked right at the professor and said, "{p}, I am finally awake after {q} years!"
 
-Knowing they had to act fast, they both grabbed their 18 (plural noun), jumped out of the 19 (noun), and ran straight toward the 20 (place).""")
+Knowing they had to act fast, they both grabbed their {r}, jumped out of the {s}, and ran straight toward the "t".""")
