@@ -15,3 +15,4 @@ input("\nPress Enter to continue.")
 a = input("\nPlease enter your first number (e.g., an integer or decimal, like 10 or 5.5):")
 
 b = input("\nPlease enter your second number (e.g., an integer or decimal, like 10 or 5.5):")
+
