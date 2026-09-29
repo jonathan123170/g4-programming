@@ -1,3 +1,10 @@
+"""
+Filename: conditional_calculator.py
+Author: <Lastname, Firstname>
+Created: <MM/DD/YYYY>
+Instructor: Holtslander
+"""
+
 print("Hello! Welcome to the Conditional Calculator!")
 
 print("\nThis conditional calculator is a calculator that'll help with 2 numbers on the 4 basic operations:")
