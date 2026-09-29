@@ -1,3 +1,10 @@
+"""
+Filename: simple_calculator.py
+Author: <Lopez Vanegas, Jonathan>
+Created: <9/29/26>
+Instructor: Mr. Burgess
+"""
+
 print("Hello! Welcome to the Simple Calculator!")
 
 print("\nThis simple calculator is a calculator that'll help with 2 numbers on the 4 basic symbols:")
