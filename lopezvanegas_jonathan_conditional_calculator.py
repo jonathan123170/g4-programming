@@ -28,13 +28,13 @@ c = int(input("\nPlease enter your second number (e.g., an integer or decimal, l
 print("\nHere is your answer:")
 
 if b == "+":
-    print(f"{a} + {c} = {a+c}")
+    print(f"Sum:{a} + {c} = {a+c}")
 elif b == "-":
-    print(f"{a} - {c} = {a-c}")
+    print(f"Difference:{a} - {c} = {a-c}")
 elif b == "*":
-    print(f"{a} * {c} = {a*c}")
+    print(f"Product:{a} * {c} = {a*c}")
 elif b == "/":
-    print(f"{a} / {c} = {a/c}")
+    print(f"Quotient{a} / {c} = {a/c}")
 
 
 print("\nThank you for using the conditional calculator!")

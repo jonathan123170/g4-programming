@@ -25,13 +25,13 @@ b = int(input("\nPlease enter your second number (e.g., an integer or decimal, l
 
 print("\nHere are your answers:")
 
-print(f"Sum: {a+b}")
+print(f"Sum:{a} + {b} = {a+b}")
 
-print(f"Difference: {a-b}")
+print(f"Difference:{a} - {b} = {a-b}")
 
-print(f"Product: {a*b}")
+print(f"Product:{a} * {b} = {a*b}")
 
-print(f"Quotient: {a/b}")
+print(f"Quotient{a} / {b} = {a/b}")
 
 print("\nThank you for using the simple calculator!")
 
