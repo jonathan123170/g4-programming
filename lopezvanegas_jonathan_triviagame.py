@@ -26,4 +26,4 @@ else:
     if s > 0:
         s -= 1
 print(f"\nSCORE: {s}")
-input("\nPress ENTER to continue!")
+input("\nPress ENTER to continue:")
