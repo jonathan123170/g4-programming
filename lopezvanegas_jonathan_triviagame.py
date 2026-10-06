@@ -12,7 +12,7 @@ print("You will get points for each question answered correctly!")
 print("\nLet's get started!")
 s = 0
 
-input("Press ENTER to start!")
+input("\nPress ENTER to start!")
 
 a = input("What is the default format type for numbers in Python?")
 if a == "int":
