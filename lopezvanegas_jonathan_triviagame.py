@@ -11,7 +11,7 @@ print("\nThis trivia game will have 10 questions.")
 print("You will get points for each question answered correctly!")
 print("\nLet's get started!")
 s = 0
-
+q = 0
 input("\nPress ENTER to start!")
 
 a = input("What is the default format type for numbers in Python?")
@@ -19,6 +19,8 @@ if a == "int":
     a1 = print("\nCorrect! +2 points!")
     if s >= 0:
         s += 2
+    if q >= 0:
+        q += 1
 else:
     a2 = print("\nIncorrect! -1 point!")
     if s > 0:
