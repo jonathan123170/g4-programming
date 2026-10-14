@@ -1,9 +1,9 @@
 """
 Lopez Vanegas_Jonathan
-MP1_Exam
+Practice_MP1_Exam
 """
 
-print("Welcome to the Temperature Converter and Threshold Alert thingamajig!")
+print("Welcome to the Temperature Converter and Threshold Alert tool!")
 
 f = int(input("\nPlease enter a temperature in Fahrenheit to convert to Celsius: "))
 
@@ -16,5 +16,5 @@ elif c > 32:
 else:
     print(f"\nHere is your answer in Celsius: {c}°C - Normal Temperature!")
 
-print("\nThank you for using the Temperature Converter and Threshold Alert thingamajig!")
+print("\nThank you for using the Temperature Converter and Threshold Alert tool!")
 print("\nHave a good day!")
