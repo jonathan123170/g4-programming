@@ -10,10 +10,10 @@ print("\nThis tool will take your percentage score on a test and will show what 
 g = int(input("\nWhat is your test grade? "))
 
 if g >= 90 and g <= 100:
-    print("\nYou have a A! Congratulations!")
+    print("\nYou have a A! Congratulations! Keep it going!")
 
 elif g >= 80 and g <= 89:
-    print("\nYou have a B! Nice Work!")
+    print("\nYou have a B! Nice Work! Little practice can make HUGE difference!")
 
 elif g >= 70 and g <= 79:
     print("\nYou have a C! Nice! Make sure to keep on practicing!")
