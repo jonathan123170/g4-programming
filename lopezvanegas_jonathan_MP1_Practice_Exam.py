@@ -10,11 +10,11 @@ f = int(input("\nPlease enter a temperature in Fahrenheit to convert to Celsius:
 c = (f-32)*5/9
 
 if c <= 0:
-    print(f"\nHere is your answer in Celsius: {c} - Freezing Alert!")
+    print(f"\nHere is your answer in Celsius: {c}°C - Freezing Alert!")
 elif c > 32:
-    print(f"\nHere is your answer in Celsius: {c} - Heat Warning!")
+    print(f"\nHere is your answer in Celsius: {c}°C - Heat Warning!")
 else:
-    print(f"\nHere is your answer in Celsius: {c} - Normal Temperature!")
+    print(f"\nHere is your answer in Celsius: {c}°C - Normal Temperature!")
 
 print("\nThank you for using the Temperature Converter and Threshold Alert thingamajig!")
 print("\nHave a good day!")
