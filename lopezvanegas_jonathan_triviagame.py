@@ -137,4 +137,4 @@ else:
 print("\nCongratulations! You have finished the Trivia Game!")
 print(f"\nQUESTIONS ANSWERED CORRECTLY: {q}/10")
 print(f"SCORE: {s}/20")
-print("\nThank you for completing this Trivia Game! Goodbye!")
+print("\nThank you for completing the Trivia Game! Goodbye!")
