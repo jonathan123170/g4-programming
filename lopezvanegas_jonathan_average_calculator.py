@@ -16,7 +16,7 @@ while True:
     a = int(input("\nPlease enter a number:"))
 
     print(f"\nCurrent sum of numbers: {a}")
-    
+
     print(f"\nCurrent amount of numbers entered: {b}")
     c = (a+b)/2
     print(f"\nCurrent average of numbers: {a}")
