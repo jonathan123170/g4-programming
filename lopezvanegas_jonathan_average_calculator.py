@@ -15,7 +15,7 @@ print("\nThis average calculator is a calculator that'll help you find the avera
 
 while True:
     n = int(input("\nPlease enter a number:"))
-    s = s + n
+    s += n
 
     print(f"\nCurrent sum of numbers: {s}")
     if x >= 0:
