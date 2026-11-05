@@ -34,4 +34,4 @@ while True:
 
 print("\nThank you for using the Average Calculator!")
 
-print("\nHave a good day!")
+print("\nHave a good day!") 
