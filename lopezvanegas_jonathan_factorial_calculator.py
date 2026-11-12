@@ -4,11 +4,14 @@ Author: <Lopez Vanegas, Jonathan>
 Created: <11/9/26>
 Instructor: Mr. Burgess
 """
-
 def factorial():
     n = int(input("Please enter a absolute whole number:"))
-    a = for number in n:
-        print(number)
+    a = 1
+    for i in range(n,0,-1):
+        #print (i)
+        a *= i
+    print(f"{n}! is equal to: #placeholder, which equals to: {a}")
+
 
 
 # You should not need to change any code below this point
