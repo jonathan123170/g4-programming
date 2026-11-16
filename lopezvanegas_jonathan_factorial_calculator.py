@@ -7,10 +7,15 @@ Instructor: Mr. Burgess
 def factorial():
     n = int(input("Please enter a absolute whole number:"))
     a = 1
+    print(f"{n}! = ", end='')
     for i in range(n,0,-1):
+        if i > 1:
+            print(f"{i} * ", end='')
+        else:
+            print(f"{i} ", end='')
         #print (i)
         a *= i
-    print(f"{n}! is equal to: #placeholder, which equals to: {a}")
+    print(f"= {a}")
 
 
 
@@ -20,7 +25,7 @@ def main():
     running = "y"
     while running == "y":
         factorial()
-        running = input("Do another calculation? (y/N)\n").lower()
+        running = input("Do another calculation? (y/n)\n").lower()
     print("Thank you for using this factorial calculator!")
 
 if __name__ == "__main__":
